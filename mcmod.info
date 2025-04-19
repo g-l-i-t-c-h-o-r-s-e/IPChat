@@ -1,0 +1,16 @@
+[
+{
+  "modid": "IPChat",
+  "name": "IPChat",
+  "description": "Use UDP. Write: 127.0.0.1:12345. Listen: 127.0.0.1:54321.",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["B9K"],
+  "credits": "Me. The Internet.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
