@@ -1,5 +1,4 @@
 # Source: https://www.curseforge.com/minecraft/mc-mods/ipchat
-Decompiled with Vineflower: `java -jar vineflower-1.11.1.jar -dgs=1 UdpChatSocket-1.0.jar C:\Users\folder\output`
 
 WHAT IS IT?
 
@@ -58,5 +57,8 @@ BUGS
 IPChat is still in its infancy so any bug you find and any suggestion or remark you make in the comments will be appreciated.
 
     Connection is unstable in some situations.
+
+# Decompiled with Vineflower: 
+`java -jar vineflower-1.11.1.jar -dgs=1 UdpChatSocket-1.0.jar C:\Users\folder\output`
 
 
