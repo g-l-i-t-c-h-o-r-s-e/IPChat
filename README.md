@@ -1,4 +1,5 @@
 # Source: https://www.curseforge.com/minecraft/mc-mods/ipchat
+Decompiled with Vineflower: `java -jar vineflower-1.11.1.jar -dgs=1 UdpChatSocket-1.0.jar C:\Users\folder\output`
 
 WHAT IS IT?
 
